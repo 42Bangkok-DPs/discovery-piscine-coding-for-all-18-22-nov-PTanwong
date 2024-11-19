@@ -1,4 +1,3 @@
-first_name = input ('Your first name :' )
-last_name = input ('Your last name :')
-name = first_name+' '+last_name
-print(name)
+first_name = "Pongsakorn"
+last_name = "Tanwong"
+print(first_name, last_name)
