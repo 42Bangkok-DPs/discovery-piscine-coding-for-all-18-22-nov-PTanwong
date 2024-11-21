@@ -3,5 +3,6 @@
 #print(age)
 
 my_age = 19
-age =my_age+42
+asd = 42
+age =my_age+asd
 print(age)
